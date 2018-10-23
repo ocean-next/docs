@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Ocean Next</title>
-	<updated>2018-10-23T16:34:41+02:00</updated>
+	<updated>2018-10-23T17:37:03+02:00</updated>
 
 	<subtitle>Ocean Next is a team of scientists and research engineers contributing to fundamental and applied research projects on the oceans and inland waters. The company was founded in 2017 on the initiative of Jacques Verron, oceanographer and expert in data assimilation for operational oceanography</subtitle>
 
@@ -43,6 +43,7 @@
 			
 			<summary></summary>
 			<content type="html" xml:base="http://localhost:4000/expertise/natl60vids/">&lt;!--more--&gt;
+&lt;p&gt;truc&lt;/p&gt;
 </content>
 
 			

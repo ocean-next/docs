@@ -10,11 +10,11 @@ header:
 
 Some examples:
 
-* [Construction of an hydrological database at the global scale]().
+* [Construction of an hydrological database at the global scale](/expertise/hydro/).
 
-* [Design  of numerical ocean simulations at  ultrahigh resolution to investigate the role of submesoscale oceanic turbulence in the Earth’s climate.]()
+* [Design  of numerical ocean simulations at  ultrahigh resolution to investigate the role of submesoscale oceanic turbulence in the Earth’s climate.](/expertise/natl60/)
  
-* [Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data.]()
+* [Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data.](/expertise/ensembles/)
  
 * [Explore and apply some approaches and tools from Artificial Intelligence in the context data assimilation in oceanography.]()
 
