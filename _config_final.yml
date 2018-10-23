@@ -51,7 +51,7 @@ improve_content:
 urlimg: 'https://ocean-next.fr/images/'
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "ON-logo-03-blue.svg"
 
 # Gems
 gems:

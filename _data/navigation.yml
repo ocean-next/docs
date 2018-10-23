@@ -1,10 +1,16 @@
-- title: Home
+- title: "Home"
   url: "/"
   side: left
-
-- title: About Us
-  url: "/temp/"
+  dropdown:
+  
+- title: US
+  url: "/about-us/"
   side: left
+  dropdown:
+  - title: "Ocean Next"
+    url: "/about-us/"
+  - title: "Our partners"
+    url: "/about-us/"
 
 - title: "Our Expertise"
   url: "/expertise/"
@@ -12,10 +18,10 @@
   dropdown:
   - title: "Global hydrological database"
     url: "/expertise/hydro/"
-  - title: "Hi-Res ocean simulations "
-    url: "/expertise/hires-simulations/"
+  - title: "Hi-Res ocean simulations"
+    url: "/expertise/natl60/"
   - title: "Large-ensemble ocean simulations"
-    url: "/expertise/ensemble/"
+    url: "/expertise/ensembles/"
   - title: "A.I. approaches in oceanography"
     url: "/expertise/ai-approaches/"
     
@@ -23,7 +29,7 @@
   url: "/team/"
   side: left
   dropdown:
-  - title: "Jacques Verron, CEO and founder"
+  - title: "Jacques Verron"
     url: "/team/"
   - title: "Stephanie Leroux"
     url: "/team/"
@@ -33,14 +39,10 @@
     url: "/team/" 
 
 - title: "News"
-  url: "/temp/"
-  side: left
-  dropdown:
-
-- title: "Search"
-  url: "/temp/"
+  url: "/news/"
   side: right
-
+    
 - title: "Contact us"
   url: "/contact/"
   side: right
+  dropdown:

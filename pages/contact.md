@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Contact"
+title: "Contact us at :"
 meta_title: 
 subheadline: ""
 teaser: 
@@ -9,4 +9,4 @@ header:
     image_fullwidth: "mer3_dark_01.jpg"
 ---
 
-Contact us at : contact__ at __ocean-next.fr
+contact__ at __ocean-next.fr

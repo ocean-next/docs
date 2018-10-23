@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 21 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 19 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://localhost:4000//404.html</loc>
+	<loc>http://localhost:4000/404.html</loc>
 	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
+		<lastmod>2018-10-23T16:34:41+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,43 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000//blog/archive/</loc>
+	<loc>http://localhost:4000/about-us/</loc>
 	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000//atom.xml</loc>
-	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000//contact/</loc>
-	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
+		<lastmod>2018-10-23T16:34:41+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,148 +35,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000//expertise/</loc>
+	<loc>http://localhost:4000/blog/archive/</loc>
 	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000//feed.xml</loc>
-	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000//humans.txt</loc>
-	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000//blog/</loc>
-	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000//</loc>
-	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000//404.html</loc>
-	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000//ml/</loc>
-	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000//robots.txt</loc>
-	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000//search/</loc>
-	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000//sitemap.xml</loc>
-	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
+		<lastmod>2018-10-23T16:34:41+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -225,9 +52,26 @@
 
 	
 	<url>
-	<loc>http://localhost:4000//team/</loc>
+	<loc>http://localhost:4000/atom.xml</loc>
 	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
+		<lastmod>2018-10-23T16:34:41+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/contact/</loc>
+	
+		<lastmod>2018-10-23T16:34:41+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -240,9 +84,135 @@
 
 	
 	<url>
-	<loc>http://localhost:4000//404.html</loc>
+	<loc>http://localhost:4000/expertise/</loc>
 	
-		<lastmod>2018-10-22T15:05:30+02:00</lastmod>
+		<lastmod>2018-10-23T16:34:41+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/feed.xml</loc>
+	
+		<lastmod>2018-10-23T16:34:41+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/humans.txt</loc>
+	
+		<lastmod>2018-10-23T16:34:41+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/blog/</loc>
+	
+		<lastmod>2018-10-23T16:34:41+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/</loc>
+	
+		<lastmod>2018-10-23T16:34:41+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml/</loc>
+	
+		<lastmod>2018-10-23T16:34:41+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/robots.txt</loc>
+	
+		<lastmod>2018-10-23T16:34:41+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/sitemap.xml</loc>
+	
+		<lastmod>2018-10-23T16:34:41+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/team/</loc>
+	
+		<lastmod>2018-10-23T16:34:41+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -254,7 +224,67 @@
 	
 
 
-<!-- Posts: 0 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 4 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/expertise/natl60vids/</loc>
+	
+		<lastmod>2018-10-10T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/expertise/natl60/</loc>
+	
+		<lastmod>2018-10-10T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/expertise/hydro/</loc>
+	
+		<lastmod>2018-10-10T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/expertise/ensembles/</loc>
+	
+		<lastmod>2018-10-10T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
 
 
 </urlset>

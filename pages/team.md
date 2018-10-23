@@ -5,15 +5,34 @@ subheadline: ""
 teaser: "We are a team of scientists and research engineers contributing to fundamental and applied research projects on the oceans and inland waters."
 permalink: "/team/"
 header:
-    image_fullwidth: "manchots.jpg"
+    image_fullwidth: "mer3_dark_01.jpg"
+gallery:
+    - image_url: team-SL.jpg
+      caption: Stephanie Leroux, research scientist
+    - image_url: team-LB.jpg
+      caption: Laurent Brodeau, research scientist
+    - image_url: team-JV.jpg
+      caption: Jacques Verron, CEO and founder
+    - image_url: team-LL.jpg
+      caption: Léa Lasson, research engineer
 ---
 
 
+
+{% include gallery %}
+
+---
+---
+![Jacques]({{ site.urlimg }}team-JV-thumb.jpg "Jacques Verron")
 ## Jacques Verron
 ### CEO and founder
 Jacques Verron is an emeritus senior scientist at CNRS, expert in numerical ocean modeling, data assimilation and spatial observation, with a particularly strong commitment in the field of spatial altimetry.
 Jacques is one of the pioneers of French operational oceanography. As such, in the 90s, he led the first French national research project fully dedicated to operational oceanography. He was strongly involved in the creation of Mercator Océan which has rapidly emerged as the leading european company in the field of operational oceanography and is now entrusted by the European Commission to implement and operate the Copernicus Marine Service. Before committing himself to Ocean Next, Jacques has dedicated his career to research and has supervised more than 60 PhD students and postdocs. He has been editor for various international scientific journals and has authored many scientific publications. He has been awarded the silver medal by CNRS (French government research agency) in 1994, and the first prize from French Ministry of Defense in 1999. He has been, and still is, involved in the management of  various national (CNRS, IRD, CNES) and international (NASA, ISRO, ...) projects.
 
+
+---
+---
+![Stephanie]({{ site.urlimg }}team-SL-thumb.jpg "Stephanie Leroux")
 ## Stephanie Leroux
 ### Research scientist
 Stephanie Leroux, PhD, is currently in charge of the activities related to ensemble approaches in ocean numerical modeling and data analysis.
@@ -22,14 +41,18 @@ Before joining Ocean Next in july 2017, she has been working as a postdoc and a 
 Her research experience covers a wide range of topics in ocean, atmosphere and climate sciences, including eddy-permitting ocean GCMs and ensemble simulations, ocean low-frequency intrinsic variability, atmospheric GCMs and atmospheric tropical variability, monsoon, teleconnexions.
 She gained a strong technical expertise in designing and running ocean and atmosphere numerical experiments with Ocean and Atmospheric General Circulation Models (GCMs) of different types, e.g. full-physics, idealized, data-driven; in developing appropriate numerical tools and metrics;  and in performing statistical analyses on numerical model outputs and observational datasets.
 
-
+---
+---
+![Laurent]({{ site.urlimg }}team-LB-thumb.jpg "Laurent Brodeau")
 ## Laurent Brodeau
 ### Research scientist
 Laurent Brodeau, PhD, is currently in charge of the activities related to high-resolution modeling of the ocean, High Performance Computing issues, coupling of GCM components, and model configurations.
 Laurent is an expert in GCM (General Circulation Model) modeling on supercomputers, air-sea interactions, the forcing function of ocean GCMs, inter-coupling of GCM components, ocean-atmosphere coupling, and spatial interpolation of geophysical data. Throughout his career, he has gained a strong expertise with NEMO, the european ocean model, which is one of the fundamental tool on which Ocean Next relies for its activity. He has been contributing to the development of NEMO for a decade and has been part of the NEMO developper Committee since 2014.
 Prior to joining Ocean Next in September 2017, Laurent has been employed one year as a Senior Scientist at the Barcelona Supercomputing Center (BSC) in Barcelona, Spain. There, his main achievement has been to develop and make the ultrahigh horizontal resolution (~15 km) version of the EC-Earth global climate model (NEMO-ORCA12 coupled to IFS-T1279) come to life in the context of PRIMAVERA WP4. During this year spent at the BSC he gained strong expertise in handling considerably large and complex numerical models, surrounded by leading HPC computer scientists.
 
-
+---
+---
+![Léa]({{ site.urlimg }}team-LL-thumb.jpg "Léa Lasson")
 ## Léa Lasson
 ### Research engineer
 Léa Lasson, engineer, is currently in charge of the activities related to the spatial hydrology in the project context VOLODIA. This project aims to define, validate and promote by their scientific use new methods of spatial data processing for hydrology (altimetry data and imagery). The objective is

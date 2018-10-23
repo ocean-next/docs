@@ -5,6 +5,7 @@ teaser: "We are experts in the production, treatment, analysis, and interpretati
 permalink: "/expertise/"
 header:
     image_fullwidth: "natl60zoom.png"
+    logoalt: "ON-logo-03-blanc@2x.png"
 ---
 
 Some examples:

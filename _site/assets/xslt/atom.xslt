@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000//assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000//assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -32,19 +32,19 @@
 
 	<!-- Search Engine Optimization -->
 	<meta name="description" content="Ocean Next is a team of scientists and research engineers contributing to fundamental and applied research projects on the oceans and inland waters. The company was founded in 2017 on the initiative of Jacques Verron, oceanographer and expert in data assimilation for operational oceanography">
-	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
-	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
-	
-	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="http://localhost:4000//assets/xslt/atom.xslt">
+	
+	
+	
+	
+	<link rel="canonical" href="http://localhost:4000/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="Ocean Next is a team of scientists and research engineers contributing to fundamental and applied research projects on the oceans and inland waters. The company was founded in 2017 on the initiative of Jacques Verron, oceanographer and expert in data assimilation for operational oceanography">
-	<meta property="og:url" content="http://localhost:4000//assets/xslt/atom.xslt">
+	<meta property="og:url" content="http://localhost:4000/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Ocean Next">
@@ -54,7 +54,7 @@
 
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000//humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
 
 	
 
@@ -97,7 +97,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/" class="icon-tree"> Ocean Next</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> Ocean Next</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -135,6 +135,14 @@
 
           
           
+            
+            
+              <li class="divider"></li>
+              <li><a  href="http://localhost:4000/news/">News</a></li>
+
+            
+            
+          
         
 
               
@@ -144,21 +152,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000//temp/">Search</a></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-            
-            
-              <li class="divider"></li>
-              <li><a  href="http://localhost:4000//contact/">Contact us</a></li>
+              <li><a  href="http://localhost:4000/contact/">Contact us</a></li>
 
             
             
@@ -177,22 +171,7 @@
 
             
             
-              <li><a  href="http://localhost:4000//">Home</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="http://localhost:4000//temp/">About Us</a></li>
+              <li><a  href="http://localhost:4000/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -209,29 +188,19 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000//expertise/">Our Expertise</a>
+                <a  href="http://localhost:4000/about-us/">US</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000//expertise/hydro/">Global hydrological database</a></li>
+                      <li><a  href="http://localhost:4000/about-us/">Ocean Next</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000//expertise/hires-simulations/">Hi-Res ocean simulations </a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//expertise/ensemble/">Large-ensemble ocean simulations</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//expertise/ai-approaches/">A.I. approaches in oceanography</a></li>
+                      <li><a  href="http://localhost:4000/about-us/">Our partners</a></li>
                     
                   </ul>
 
@@ -250,29 +219,29 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000//team/">Our Team</a>
+                <a  href="http://localhost:4000/expertise/">Our Expertise</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000//team/">Jacques Verron, CEO and founder</a></li>
+                      <li><a  href="http://localhost:4000/expertise/hydro/">Global hydrological database</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000//team/">Stephanie Leroux</a></li>
+                      <li><a  href="http://localhost:4000/expertise/natl60/">Hi-Res ocean simulations</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000//team/">Laurent Brodeau</a></li>
+                      <li><a  href="http://localhost:4000/expertise/ensembles/">Large-ensemble ocean simulations</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000//team/">Léa Lasson</a></li>
+                      <li><a  href="http://localhost:4000/expertise/ai-approaches/">A.I. approaches in oceanography</a></li>
                     
                   </ul>
 
@@ -289,10 +258,36 @@
 
             
             
-              <li><a  href="http://localhost:4000//temp/">News</a></li>
-              <li class="divider"></li>
 
-            
+              <li class="has-dropdown">
+                <a  href="http://localhost:4000/team/">Our Team</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/team/">Jacques Verron</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/team/">Stephanie Leroux</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/team/">Laurent Brodeau</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/team/">Léa Lasson</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
             
           
         
@@ -320,7 +315,7 @@
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="http://localhost:4000/" title="Ocean Next – Hydrosphere Data and Numerics">
-				<img src="http://localhost:4000//assets/img/logo.png" alt="Ocean Next – Hydrosphere Data and Numerics">
+				<img src="http://localhost:4000/assets/img/ON-logo-03-blue@2x.png" alt="Ocean Next – Hydrosphere Data and Numerics">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -398,7 +393,7 @@
 
             <p class="shadow-black">
               Ocean Next is a team of scientists and research engineers contributing to fundamental and applied research projects on the oceans and inland waters. The company was founded in 2017 on the initiative of Jacques Verron, oceanographer and expert in data assimilation for operational oceanography
-              <a href="http://localhost:4000//info/">More ›</a>
+              <a href="http://localhost:4000/about/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -422,27 +417,27 @@
               
                 
                   <li >
-                    <a href="http://localhost:4000/"  title=""></a>
+                    <a href="http://localhost:4000"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000//contact/"  title="Contact">Contact</a>
+                    <a href="http://localhost:4000/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000//ml/"  title="Mentions légales">Mentions Légales</a>
+                    <a href="http://localhost:4000/ml/"  title="Mentions légales">Mentions Légales</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000//feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="http://localhost:4000/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000//sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="http://localhost:4000/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -483,7 +478,7 @@
 		
 
 
-<script src="http://localhost:4000//assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
 
 
 
