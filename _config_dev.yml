@@ -3,15 +3,15 @@
 # everytime you work locally on the project, you start both config-files, overwriting
 # the first one with the development variables needed.
 #
-# Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-#url: 		'http://localhost:4000'
-#baseurl: 	''
-#urlimg: 	/images/
+# Start development with › $ jekyll serve -w --config _config.yml,_config_dev.yml
+url: 		'http://localhost:4000'
+baseurl: 	'/'
+urlimg: 	/images/
 
-url: 'https://ocean-next.github.io/docs'
-baseurl: ''
-urlimg: 'https://ocean-next.github.io/docs/images/'
+#url: 'https://ocean-next.github.io/docs'
+#baseurl: ''
+#urlimg: 'https://ocean-next.github.io/docs/images/'
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:

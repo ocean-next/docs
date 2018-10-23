@@ -6,7 +6,7 @@ subheadline: ""
 teaser: 
 permalink: "/ml/"
 header:
-    image_fullwidth: "mer3_blue.jpg"
+    image_fullwidth: "mer3_dark_01.jpg"
 ---
 
 ### Mentions légales
