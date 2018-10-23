@@ -3,8 +3,7 @@
 # To see our official website, go there: [www.ocean-next.fr](www.ocean-next.fr)
 
 ### Developers :
-* Develop in your own branch (and build site locally with ```jekyll serve -w --config _config.yml,_config_dev.yml ```)
+* Develop in your own branch (and build and see your modified site locally with ```jekyll serve -w --config _config.yml,_config_dev.yml ```)
 * Then merge with the master branch
 * See the result there https://ocean-next.github.io/index.html
-* Then transfer the content of the ```_site/``` repository to our official webpage ([www.ocean-next.fr](www.ocean-next.fr))
-* Note: don't forget to update ```_config.yml``` according to where you aim to publish the site (see comments in ```_config.yml```.
+* When happy with your modifications, build the final site locally with ```jekyll serve -w --config _configfinal.yml``` then   transfer the content of the ```_site/``` repository to our official webpage ([www.ocean-next.fr](www.ocean-next.fr))
