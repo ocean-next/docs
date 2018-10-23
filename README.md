@@ -1,9 +1,8 @@
 ## This is where we develop our webpage. 
 
-# To see our official website, go there instead: 
-# [www.ocean-next.fr](www.ocean-next.fr)
+# To see our official website, go there: [www.ocean-next.fr](www.ocean-next.fr)
 
-### Development mode :
+### Developers :
 * Develop in your own branch (and build site locally with ```jekyll build```, ```jekyll serve -w```)
 * Then merge with the master branch
 * See the result there https://ocean-next.github.io/index.html
