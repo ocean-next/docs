@@ -25,10 +25,10 @@ author: Ocean Next
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://www.ocean-next.fr'
-baseurl: '/'
+#url: 'http://www.ocean-next.fr'
+#baseurl: '/'
 
-url: 'https://ocean-next.github.io/docs'
+url: 'https://ocean-next.github.io'
 baseurl: '/'
 
 
@@ -42,7 +42,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://ocean-next.github.io/docs/images/'
+urlimg: 'https://ocean-next.github.io/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
