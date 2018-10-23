@@ -25,12 +25,13 @@ author: Ocean Next
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-#url: 'http://www.ocean-next.fr'
-#baseurl: '/'
+### USE THIS TO build the final site that will be publsihed at www.ocean-next.fr:
+### urlimg: 'https://ocean-next.fr'
 
+### USE THIS TO build the developing site on github
 url: 'https://ocean-next.github.io'
-baseurl: '/'
 
+baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages  https://github.com/Phlow/feeling-responsive/edit/gh-pages
@@ -42,7 +43,12 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
+
+### USE THIS TO build the developing site on github
 urlimg: 'https://ocean-next.github.io/images/'
+
+### USE THIS TO build the final site that will be publsihed at www.ocean-next.fr:
+### urlimg: 'https://ocean-next.fr/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -145,9 +151,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'https://plus.google.com/u/0/118311555303973066167'
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
+#google_author:             ''
+#google_site_verification:  ''
+#bing_webmastertools_id:    ''
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
 
