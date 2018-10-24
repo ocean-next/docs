@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://ocean-next.github.io/sitemap.xml
+Sitemap: https://ocean-next.fr/sitemap.xml
