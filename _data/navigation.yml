@@ -38,6 +38,10 @@
   - title: "Léa Lasson"
     url: "/team/LL/" 
 
+- title: "Publications"
+  url: "/publications/"
+  side: right
+
 - title: "News"
   url: "/news/"
   side: right
