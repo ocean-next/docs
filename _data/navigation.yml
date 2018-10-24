@@ -30,13 +30,13 @@
   side: left
   dropdown:
   - title: "Jacques Verron"
-    url: "/team/"
+    url: "/team/JV/"
   - title: "Stephanie Leroux"
-    url: "/team/"
+    url: "/team/SL/"
   - title: "Laurent Brodeau"
-    url: "/team/"
+    url: "/team/LB/"
   - title: "Léa Lasson"
-    url: "/team/" 
+    url: "/team/LL/" 
 
 - title: "News"
   url: "/news/"
