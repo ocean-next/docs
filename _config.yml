@@ -27,7 +27,7 @@ author: Ocean Next
 #
 ### USE THIS TO build the final site that will be publsihed at www.ocean-next.fr:
 ### urlimg: 'https://ocean-next.fr'
-
+#
 ### USE THIS TO build the developing site on github
 url: 'https://ocean-next.github.io'
 
@@ -43,15 +43,16 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-
+#
 ### USE THIS TO build the developing site on github
 urlimg: 'https://ocean-next.github.io/images/'
 
 ### USE THIS TO build the final site that will be publsihed at www.ocean-next.fr:
 ### urlimg: 'https://ocean-next.fr/images/'
-
+#
 # Logo size is 600x80 pixels
-logo: "ON-logo-03-blue@2x.png"
+#logo: "ON-logo-03-blue@2x.png"
+logo: "logo_03_blue_big.svg"
 
 # Gems
 gems:
@@ -166,8 +167,9 @@ defaults:
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32:                          'favicon-32x32.png'
-touch-icon-192x192:                     'touch-icon-192x192.png'
+#favicon-32x32:                          'favicon-32x32.png'
+favicon-32x32:                          'favicon.ico'
+touch-icon-192x192:                     'touch-icon-180x180.png'
 apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
 apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
 apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
