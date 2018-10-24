@@ -17,7 +17,7 @@ slogan: 'Hydrosphere Data and Numerics'
 description: 'Ocean Next is a team of scientists and research engineers contributing to fundamental and applied research projects on the oceans and inland waters. The company was founded in 2017 on the initiative of Jacques Verron, oceanographer and expert in data assimilation for operational oceanography'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Inspired by template from <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Follow us on Github and Youtube:</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -26,12 +26,12 @@ author: Ocean Next
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 ### USE THIS TO build the final site that will be publsihed at www.ocean-next.fr:
- url: 'https://ocean-next.fr'
-
+### urlimg: 'https://ocean-next.fr'
+#
 ### USE THIS TO build the developing site on github
-###url: 'https://ocean-next.github.io'
+url: 'https://ocean-next.fr'
 
-baseurl: '/'
+baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages  https://github.com/Phlow/feeling-responsive/edit/gh-pages
@@ -43,15 +43,15 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-
+#
 ### USE THIS TO build the developing site on github
-### urlimg: 'https://ocean-next.github.io/images/'
-
-### USE THIS TO build the final site that will be publsihed at www.ocean-next.fr:
 urlimg: 'https://ocean-next.fr/images/'
 
+### USE THIS TO build the final site that will be publsihed at www.ocean-next.fr:
+### urlimg: 'https://ocean-next.fr/images/'
+#
 # Logo size is 600x80 pixels
-logo: "ON-logo-03-blue.svg"
+logo: "ON-logo-03-blue@2x.png"
 
 # Gems
 gems:

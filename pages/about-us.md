@@ -20,8 +20,8 @@ We are a [team]({{ site.url }}{{ site.baseurl }}team/) of scientists and researc
 
 We work in tight collaboration with various  academic research groups  and private and public players of spatial and  operational oceanography in Europe.
 
-[Read more]({{ site.url }}{{ site.baseurl }}expertise/) about the science projects we are involved in.
+[Read more]({{ site.url }}{{ site.baseurl }}/expertise/) about the science projects we are involved in.
 
-
+---
 # Partnership:
 {% include gallery %}

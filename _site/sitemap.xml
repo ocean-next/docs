@@ -5,24 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/404.html</loc>
+	<loc>https://ocean-next.github.io/404.html</loc>
 	
-		<lastmod>2018-10-23T17:37:03+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/about-us/</loc>
-	
-		<lastmod>2018-10-23T17:37:03+02:00</lastmod>
+		<lastmod>2018-10-24T11:00:40+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,9 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/archive/</loc>
+	<loc>https://ocean-next.github.io/about-us/</loc>
 	
-		<lastmod>2018-10-23T17:37:03+02:00</lastmod>
+		<lastmod>2018-10-24T11:00:40+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -49,12 +34,10 @@
 	
 
 	
-
-	
 	<url>
-	<loc>http://localhost:4000/atom.xml</loc>
+	<loc>https://ocean-next.github.io/blog/archive/</loc>
 	
-		<lastmod>2018-10-23T17:37:03+02:00</lastmod>
+		<lastmod>2018-10-24T11:00:40+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,133 +52,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/contact/</loc>
+	<loc>https://ocean-next.github.io/atom.xml</loc>
 	
-		<lastmod>2018-10-23T17:37:03+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/expertise/</loc>
-	
-		<lastmod>2018-10-23T17:37:03+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feed.xml</loc>
-	
-		<lastmod>2018-10-23T17:37:03+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/humans.txt</loc>
-	
-		<lastmod>2018-10-23T17:37:03+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/</loc>
-	
-		<lastmod>2018-10-23T17:37:03+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/</loc>
-	
-		<lastmod>2018-10-23T17:37:03+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml/</loc>
-	
-		<lastmod>2018-10-23T17:37:03+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/robots.txt</loc>
-	
-		<lastmod>2018-10-23T17:37:03+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/sitemap.xml</loc>
-	
-		<lastmod>2018-10-23T17:37:03+02:00</lastmod>
+		<lastmod>2018-10-24T11:00:40+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -210,9 +69,150 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/team/</loc>
+	<loc>https://ocean-next.github.io/contact/</loc>
 	
-		<lastmod>2018-10-23T17:37:03+02:00</lastmod>
+		<lastmod>2018-10-24T11:00:40+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ocean-next.github.io/expertise/</loc>
+	
+		<lastmod>2018-10-24T11:00:40+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ocean-next.github.io/feed.xml</loc>
+	
+		<lastmod>2018-10-24T11:00:40+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ocean-next.github.io/humans.txt</loc>
+	
+		<lastmod>2018-10-24T11:00:40+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ocean-next.github.io/blog/</loc>
+	
+		<lastmod>2018-10-24T11:00:40+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ocean-next.github.io/</loc>
+	
+		<lastmod>2018-10-24T11:00:40+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ocean-next.github.io/ml/</loc>
+	
+		<lastmod>2018-10-24T11:00:40+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ocean-next.github.io/robots.txt</loc>
+	
+		<lastmod>2018-10-24T11:00:40+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://ocean-next.github.io/sitemap.xml</loc>
+	
+		<lastmod>2018-10-24T11:00:40+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://ocean-next.github.io/team/</loc>
+	
+		<lastmod>2018-10-24T11:00:40+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -228,7 +228,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/expertise/natl60vids/</loc>
+	<loc>https://ocean-next.github.io/expertise/natl60vids/</loc>
 	
 		<lastmod>2018-10-10T00:00:00+02:00</lastmod>
 	
@@ -243,7 +243,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/expertise/natl60/</loc>
+	<loc>https://ocean-next.github.io/expertise/natl60/</loc>
 	
 		<lastmod>2018-10-10T00:00:00+02:00</lastmod>
 	
@@ -258,7 +258,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/expertise/hydro/</loc>
+	<loc>https://ocean-next.github.io/expertise/hydro/</loc>
 	
 		<lastmod>2018-10-10T00:00:00+02:00</lastmod>
 	
@@ -273,7 +273,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/expertise/ensembles/</loc>
+	<loc>https://ocean-next.github.io/expertise/ensembles/</loc>
 	
 		<lastmod>2018-10-10T00:00:00+02:00</lastmod>
 	
