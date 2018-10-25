@@ -4,8 +4,8 @@ title: What we do
 teaser: "We are experts in the production, treatment, analysis, and interpretation of geoscientific data in relation to the hydrosphere, in particular in oceanography and hydrology. Read more about some science projects we are involved in:"
 permalink: "/expertise/"
 header:
-    image_fullwidth: "natl60zoom.png"
-    logoalt: "ON-logo-03-blanc@2x.png"
+    image_fullwidth: "eNATL60_zoom.png"
+    logoalt: "logo_03_yellow_big.svg"
 widget1:
   title: "A global database for hydrology"
   url: /expertise/hydro/
