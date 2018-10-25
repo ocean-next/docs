@@ -11,7 +11,7 @@ widget1:
   title: "Who we are"
   url: /team/
   image: earth20161122_c.jpg
-  text: 'We are a team of scientists and research engineers contributing to fundamental and applied research projects on the oceans and inland waters. [...]'
+  text: 'We are a team of scientists contributing to fundamental and applied research projects on the oceans and inland waters. [...]'
 widget2:
   title: "What we do"
   url: /expertise/
