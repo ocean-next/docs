@@ -13,7 +13,7 @@ header:
 Vous êtes sur le site internet de la SASU Ocean Next. Pour toute information liée à son fonctionnement ou à son utilisation, nous vous prions de bien vouloir nous contacter par email, à l’adresse : ```contact__at__ocean-next.fr``` ou par courrier postal, à l’adresse du siège social ci-dessous.
 
 - Webmasters : Stephanie Leroux, Laurent Brodeau
-- Gestion du contenu : Jekyll (inspired from the template [Feeling Responsive](https://github.com/Phlow/feeling-responsive)).
+- Gestion du contenu : [Jekyll](https://jekyllrb.com/) (inspired from the template [Feeling Responsive](https://github.com/Phlow/feeling-responsive)).
 - Hébergeur : [o2switch](https://www.o2switch.fr)
 - Création graphique du logo et de la charte graphique Ocean Next: [H14 Lab](https://h14-lab.com/), Grenoble.  
 
