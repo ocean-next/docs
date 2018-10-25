@@ -19,7 +19,7 @@ widget2:
   text: 'We produce, collect and interpret geoscientific data in relation to the ocean and inland waters. [...]'
 widget3:
   title: "Our story"
-  url: /temp/
+  url: /about-us/
   image: ourstory_3.jpg
   text: 'Our company Ocean Next was founded in 2017 on the initiative of Jacques Verron, oceanographer and expert in data assimilation for  operational oceanography. [...]'
 #
