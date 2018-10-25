@@ -14,7 +14,7 @@ title: 'Ocean Next'
 slogan: 'Hydrosphere Data and Numerics'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Ocean Next is a team of scientists and research engineers contributing to fundamental and applied research projects on the oceans and inland waters. The company was founded in 2017 on the initiative of Jacques Verron, oceanographer and expert in data assimilation for operational oceanography'
+description: 'Ocean Next is a team of scientists contributing to fundamental and applied research projects on the oceans and inland waters. The company was founded in 2017 on the initiative of Jacques Verron, oceanographer and expert in data assimilation for operational oceanography'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Follow us on Github and Youtube:</p>'
