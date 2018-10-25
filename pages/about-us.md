@@ -18,7 +18,7 @@ gallery:
 ---
 Our company Ocean Next was founded in 2017 on the initiative of Jacques Verron, oceanographer and expert in data assimilation for operational oceanography.
 
-We are a [team]({{ site.url }}{{ site.baseurl }}/team/) of scientists and research engineers contributing to fundamental and applied research projects on the oceans and inland waters. We are experts in the production, treatment, analysis, and interpretation of geoscientific data in relation to the hydrosphere, in particular in oceanography and hydrology. 
+We are a [team]({{ site.url }}{{ site.baseurl }}/team/) of scientists contributing to fundamental and applied research projects on the oceans and inland waters. We are experts in the production, treatment, analysis, and interpretation of geoscientific data in relation to the hydrosphere, in particular in oceanography and hydrology. 
 
 We work in tight collaboration with various  academic research groups  and private and public players of spatial and  operational oceanography in Europe.
 

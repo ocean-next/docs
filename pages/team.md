@@ -2,7 +2,7 @@
 layout: pagepluswidgets
 title: "Meet with us"
 subheadline: ""
-teaser: "We are a team of scientists and research engineers contributing to fundamental and applied research projects on the oceans and inland waters."
+teaser: "We are a team of scientists contributing to fundamental and applied research projects on the oceans and inland waters."
 permalink: "/team/"
 header:
     image_fullwidth: "mer3_dark_01.jpg"
