@@ -9,4 +9,5 @@ header:
     image_fullwidth: "mer3_dark_01.jpg"
 ---
 
-```contact__ at __ocean-next.fr```
+![]({{ site.urlimg }}contactON.png "Contact us")
+

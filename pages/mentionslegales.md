@@ -10,7 +10,10 @@ header:
 ---
 
 ### Mentions légales
-Vous êtes sur le site internet de la SASU Ocean Next. Pour toute information liée à son fonctionnement ou à son utilisation, nous vous prions de bien vouloir nous contacter par email, à l’adresse : ```contact__at__ocean-next.fr``` ou par courrier postal, à l’adresse du siège social ci-dessous.
+Vous êtes sur le site internet de la SASU Ocean Next. Pour toute information liée à son fonctionnement ou à son utilisation, nous vous prions de bien vouloir nous contacter par email, à l’adresse :
+![]({{ site.urlimg }}contactON.png "Contact us")
+
+Ou par courrier postal, à l’adresse du siège social ci-dessous.
 
 - Webmasters : Stephanie Leroux, Laurent Brodeau
 - Gestion du contenu : [Jekyll](https://jekyllrb.com/) (inspired from the template [Feeling Responsive](https://github.com/Phlow/feeling-responsive)).
