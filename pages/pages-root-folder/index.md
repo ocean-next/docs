@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "What we do"
   url: /expertise/
-  image: eNATL60_zoom.png
+  image: eNATL60_zoom.jpg
   text: 'We produce, collect and interpret geoscientific data in relation to the ocean and inland waters. [...]'
 widget3:
   title: "Our story"
