@@ -10,17 +10,17 @@ header:
 widget1:
   title: "Who we are"
   url: /team/
-  image: earth20161122_c.jpg
+  image: earth20161122_800x800.jpg
   text: 'We are a team of scientists contributing to fundamental and applied research projects on the oceans and inland waters. [...]'
 widget2:
   title: "What we do"
   url: /expertise/
-  image: eNATL60_zoom.png
+  image: eNATL60_zoom_800x800.jpg
   text: 'We produce, collect and interpret geoscientific data in relation to the ocean and inland waters. [...]'
 widget3:
   title: "Our story"
   url: /about-us/
-  image: ourstory_3.jpg
+  image: manchots_800x800.jpg
   text: 'Our company Ocean Next was founded in 2017 on the initiative of Jacques Verron, oceanographer and expert in data assimilation for  operational oceanography. [...]'
 #
 # Use the call for action to show a button on the frontpage

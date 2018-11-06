@@ -4,7 +4,7 @@ title: "Design  of numerical ocean simulations at  kilometric resolution to inve
 subheadline: ""
 teaser: "ReSuMPTiOn project"
 header:
-    image_fullwidth: "eNATL60_zoom.png"
+    image_fullwidth: "eNATL60_zoom.jpg"
     logoalt: "logo_03_yellow_big.svg"
 gallery:
     - image_url: natl60-image_of_the_month_eNATL60.png 

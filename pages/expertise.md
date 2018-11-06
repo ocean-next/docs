@@ -5,30 +5,30 @@ teaser: "We are experts in the production, treatment, analysis, and interpretati
 breadcrumb: true
 permalink: "/expertise/"
 header:
-    image_fullwidth: "eNATL60_zoom.png"
+    image_fullwidth: "eNATL60_zoom.jpg"
     logoalt: "logo_03_yellow_big.svg"
 widget1:
   title: "A global database for hydrology"
   url: /expertise/hydro/
-  image: hydrosat.png
+  image: hydrosat_436x436.png
   text: 'Ocean Next participate in the construction of a global database for hydrological data [...]'
   
 widget2:
   title: "Ocean simulations at very high resolution"
   url: /expertise/natl60/
-  image: hires.png
+  image: highres_600x600.jpg
   text: 'Ocean simulations at kilometric resolution to investigate the role of submesoscale oceanic turbulence in the Earth’s climate. [...]'
   
 widget3:
   title: "Large-ensemble ocean simulations"
   url: /expertise/ensembles/
-  image: ens.png
+  image: ens_600x600.jpg
   text: 'Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data [...]'
 
 widget4:
   title: "Artificial Intelligence methods for Oceanography"
   url: /expertise/ai-approaches/
-  image: sat.png
+  image: earth20161122_800x800.jpg
   text: 'Explore and apply some approaches and tools from Artificial Intelligence in the context ocean data assimilation and spatial oceanography [...]'
 
 
