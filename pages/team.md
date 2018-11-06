@@ -4,8 +4,9 @@ title: "Meet with us"
 subheadline: ""
 teaser: "We are a team of scientists contributing to fundamental and applied research projects on the oceans and inland waters."
 permalink: "/team/"
+breadcrumb: true
 header:
-    image_fullwidth: "mer3_dark_01.jpg"
+    image_fullwidth: "JV-manchots-line.jpg"
  
 widget1:
   title: "Stéphanie Leroux"

@@ -7,6 +7,7 @@ teaser: ""
 header:
     image_fullwidth: "mer3_dark_01.jpg"
 permalink: "/about-us/"
+breadcrumb: true
 gallery:
     - image_url: partners-IGE.svg
     - image_url: partners-LEGOS.jpg
@@ -25,5 +26,5 @@ We work in tight collaboration with various  academic research groups  and priva
 [Read more]({{ site.url }}{{ site.baseurl }}/expertise/) about the science projects we are involved in.
 
 ---
-# Partnership:
+# Some of our partners:
 {% include gallery %}

@@ -3,10 +3,10 @@ layout: page-fullwidth
 title: "Laurent Brodeau"
 subheadline: "Research scientist"
 teaser: "Currently in charge of the activities related to high-resolution modeling of the ocean, High Performance Computing issues, coupling of GCM components, and model configurations. "
-categories:
-    - team
+breadcrumb: true
 header:
     image_fullwidth: "mer3_dark_01.jpg"
+permalink: "/team/LB/"
 ---
 
 ![Laurent]({{ site.urlimg }}team-LB-thumb.jpg "Laurent Brodeau")

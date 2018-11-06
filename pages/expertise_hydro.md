@@ -3,11 +3,11 @@ layout: page-fullwidth
 title: "A global database for hydrological data"
 subheadline: ""
 teaser: "Ocean Next participate in the construction of a global database for hydrological data, building on  preliminary versions already developed by several french research institutes (such as HydroWeb, Hydrolare, …)"
-categories:
-    - expertise
 header:
     image_fullwidth: "mer3_dark_01.jpg"
-    logoalt: "ON-logo-03-blue@2x.png"
+    logoalt: "logo_03_blue_big.svg"
+permalink: /expertise/hydro/
+breadcrumb: true
 ---
 
 Our participation in this project concerns:
@@ -27,4 +27,6 @@ _Fig1: Variations of the level of water in the flooded area of the Mékong delta
 [![Fig2]({{ site.urlimg }}fig2.png "Fig2")]({{ site.urlimg }}fig2.png)
 
 _Fig2: Some examples of timeseries of the level of water  for  Niger,  Yangze, Indus and  Danube rivers, from the HYDROWEB dataweb. Source Jean-François Crétaux._
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/expertise/">Read also about our other activities ›</a>
 

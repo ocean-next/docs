@@ -3,8 +3,7 @@ layout: page-fullwidth
 title: "Jacques Verron"
 subheadline: "CEO and founder"
 teaser: "Emeritus senior scientist at CNRS, expert in numerical ocean modeling, data assimilation and spatial observation. He founded Ocean Next in 2017."
-categories:
-    - team
+breadcrumb: true
 header:
     image_fullwidth: "mer3_dark_01.jpg"
 permalink: /team/JV/

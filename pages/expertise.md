@@ -2,6 +2,7 @@
 layout: pagepluswidgets
 title: What we do
 teaser: "We are experts in the production, treatment, analysis, and interpretation of geoscientific data in relation to the hydrosphere, in particular in oceanography and hydrology. Read more about some science projects we are involved in:"
+breadcrumb: true
 permalink: "/expertise/"
 header:
     image_fullwidth: "eNATL60_zoom.png"

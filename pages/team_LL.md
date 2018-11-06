@@ -3,10 +3,10 @@ layout: page-fullwidth
 title: "Léa Lasson"
 subheadline: "Research engineer"
 teaser: "Currently in charge of the activities related to the spatial hydrology in the project context VOLODIA."
-categories:
-    - team
+breadcrumb: true
 header:
     image_fullwidth: "mer3_dark_01.jpg"
+permalink: "/team/LL/"
 ---
 
 ![Léa]({{ site.urlimg }}team-LL-thumb.jpg "Léa Lasson")

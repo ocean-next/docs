@@ -43,8 +43,9 @@
   side: right
 
 - title: "News"
-  url: "/news/"
+  url: "/blog/"
   side: right
+  dropdown:
     
 - title: "Contact us"
   url: "/contact/"

@@ -5,6 +5,7 @@ teaser: "2017-Present"
 permalink: "/publications/"
 header:
     image_fullwidth: "manchots.jpg"
+breadcrumb: true
 ---
 
 ### Submitted peer-reviewed articles:

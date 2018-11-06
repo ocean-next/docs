@@ -4,6 +4,7 @@ title:
 meta_title: "Contact us"
 subheadline: ""
 teaser: 
+breadcrumb: true
 permalink: "/ml/"
 header:
     image_fullwidth: "mer3_dark_01.jpg"

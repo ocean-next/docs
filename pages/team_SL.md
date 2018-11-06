@@ -3,8 +3,7 @@ layout: page-fullwidth
 title: "Stéphanie Leroux"
 subheadline: "Research scientist"
 teaser: "Currently in charge of the activities related to ensemble approaches in ocean numerical modeling and data analysis."
-categories:
-    - team
+breadcrumb: true
 header:
     image_fullwidth: "mer3_dark_01.jpg"
 permalink: /team/SL/

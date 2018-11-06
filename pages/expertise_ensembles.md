@@ -3,11 +3,11 @@ layout: page-fullwidth
 title: "Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data."
 subheadline: ""
 teaser: ""
-categories:
-    - expertise
 header:
-    image_fullwidth: "natl60zoom.png"
-    logoalt: "ON-logo-03-blanc@2x.png"
+    image_fullwidth: "sand_SLX.jpg"
+    logoalt: "logo_03_white_big.svg"
+permalink: /expertise/ensemles/
+breadcrumb: true
 ---
 Over the last decades, altimeter and other satellite and in-situ ocean observations have provided crucial information to increase our knowledge of the global oceanic state, its variability, and long-term changes. Comparing observations to ocean numerical simulations is a routinely-used approach to either validate models,  calibrate new observation systems, or investigate physical processes and mechanisms.  But such comparison requires some knowledge of the different types of uncertainties attached to the compared datasets.
 Given the chaotic, non-linear nature of the ocean system, ocean models in the turbulent regime are highly sensitive to initial conditions and spontaneously generate a chaotic intrinsic variability that has recently been shown to be significant even on interannual and longer time-scale,  and on entire basins  (e.g. Penduff et al, 2011, Serazin et al, 2015, Leroux et al 2017).
@@ -25,6 +25,6 @@ _Fig1: This scheme presents the setup of a large-ensemble simulation of 50 membe
 [![Fig2]({{ site.urlimg }}GMocci.png "Fig2")]({{ site.urlimg }}GMocci.png)
 _Fig2: The probabilistic description of the ocean state  allows for the detection of areas where the ocean has a strongly non-gaussian behavior, such as in the Gulf of Mexico (Figure), where a bi-modal distribution is detected in the loop-current, and an asymmetrical distribution is detected further in the Gulf, along the trajectory of the eddies released by the loop-current with an irregular frequency and then advected westward in the Gulf. The figure above shows the sea-level-height  (SSH) distribution of the 50 members of the large-ensemble simulation, and compare with the AVISO satellite observation time-series. The model spread and its variations with time give an indication of the range of values (and probability) in which the satellite observations are expected to fall at each location._
 
-
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/expertise/">Read also about our other activities ›</a>
 
 
