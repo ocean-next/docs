@@ -28,7 +28,7 @@ widget3:
 widget4:
   title: "Artificial Intelligence methods for Oceanography"
   url: /expertise/ai-approaches/
-  image: neuralnet_800x800.jpg
+  image: nn_f_743x743.png
   text: 'Explore and apply some approaches and tools from Artificial Intelligence in the context ocean data assimilation and spatial oceanography [...]'
 
 

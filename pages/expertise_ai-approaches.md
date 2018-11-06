@@ -4,7 +4,7 @@ title: "Exploring Artificial Intelligence methods and tools for data assimilatio
 subheadline: ""
 teaser: ""
 header:
-    image_fullwidth: "neuralnet_darkblue3_1920x1016.jpg"
+    image_fullwidth: "neuralnet_flower_blue_900x596.jpg"
     logoalt: "logo_03_yellow_big.svg"
 permalink: /expertise/ai-approaches/
 breadcrumb: true
