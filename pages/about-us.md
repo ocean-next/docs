@@ -5,7 +5,7 @@ title: "About Ocean Next"
 subheadline: ""
 teaser: ""
 header:
-    image_fullwidth: "mer3_dark_01.jpg"
+    image_fullwidth: "mer_orig_montage_curl.jpg"
 permalink: "/about-us/"
 breadcrumb: true
 gallery:

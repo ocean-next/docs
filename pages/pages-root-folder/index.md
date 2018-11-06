@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: "mer3_dark_01.jpg"
+  image_fullwidth: "mer_orig_montage_curl.jpg"
 widget1:
   title: "Who we are"
   url: /team/
