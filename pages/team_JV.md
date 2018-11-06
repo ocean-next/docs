@@ -5,7 +5,8 @@ subheadline: "CEO and founder"
 teaser: "Emeritus senior scientist at CNRS, expert in numerical ocean modeling, data assimilation and spatial observation. He founded Ocean Next in 2017."
 breadcrumb: true
 header:
-    image_fullwidth: "mer3_dark_01.jpg"
+    image_fullwidth: "team_blue.JPG"
+    logoalt: "logo_03_white_big.svg"
 permalink: /team/JV/
 ---
 

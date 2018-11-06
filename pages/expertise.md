@@ -5,8 +5,8 @@ teaser: "We are experts in the production, treatment, analysis, and interpretati
 breadcrumb: true
 permalink: "/expertise/"
 header:
-    image_fullwidth: "eNATL60_zoom.jpg"
-    logoalt: "logo_03_yellow_big.svg"
+    image_fullwidth: "earth20161122_blue.jpg"
+    logoalt: "logo_03_white_big.svg"
 widget1:
   title: "A global database for hydrology"
   url: /expertise/hydro/
@@ -28,7 +28,7 @@ widget3:
 widget4:
   title: "Artificial Intelligence methods for Oceanography"
   url: /expertise/ai-approaches/
-  image: earth20161122_800x800.jpg
+  image: neuralnet_800x800.jpg
   text: 'Explore and apply some approaches and tools from Artificial Intelligence in the context ocean data assimilation and spatial oceanography [...]'
 
 

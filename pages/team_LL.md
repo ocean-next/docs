@@ -5,7 +5,8 @@ subheadline: "Research engineer"
 teaser: "Currently in charge of the activities related to the spatial hydrology in the project context VOLODIA."
 breadcrumb: true
 header:
-    image_fullwidth: "mer3_dark_01.jpg"
+    image_fullwidth: "team_blue.JPG"
+    logoalt: "logo_03_white_big.svg"
 permalink: "/team/LL/"
 ---
 

@@ -5,7 +5,8 @@ subheadline: "Research scientist"
 teaser: "Currently in charge of the activities related to high-resolution modeling of the ocean, High Performance Computing issues, coupling of GCM components, and model configurations. "
 breadcrumb: true
 header:
-    image_fullwidth: "mer3_dark_01.jpg"
+    image_fullwidth: "team_blue.JPG"
+    logoalt: "logo_03_white_big.svg"
 permalink: "/team/LB/"
 ---
 

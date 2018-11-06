@@ -4,8 +4,8 @@ title: "A global database for hydrological data"
 subheadline: ""
 teaser: "Ocean Next participate in the construction of a global database for hydrological data, building on  preliminary versions already developed by several french research institutes (such as HydroWeb, Hydrolare, …)"
 header:
-    image_fullwidth: "mer3_dark_01.jpg"
-    logoalt: "logo_03_blue_big.svg"
+    image_fullwidth: "earth20161122_blue.jpg"
+    logoalt: "logo_03_yellow_big.svg"
 permalink: /expertise/hydro/
 breadcrumb: true
 ---

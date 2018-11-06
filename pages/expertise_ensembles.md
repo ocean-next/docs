@@ -4,8 +4,8 @@ title: "Learning from large-ensemble ocean simulations to better interpret satel
 subheadline: ""
 teaser: ""
 header:
-    image_fullwidth: "sand_SLX.jpg"
-    logoalt: "logo_03_white_big.svg"
+    image_fullwidth: "earth20161122_blue.jpg"
+    logoalt: "logo_03_yellow_big.svg"
 permalink: /expertise/ensembles/
 breadcrumb: true
 ---

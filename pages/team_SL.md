@@ -5,7 +5,8 @@ subheadline: "Research scientist"
 teaser: "Currently in charge of the activities related to ensemble approaches in ocean numerical modeling and data analysis."
 breadcrumb: true
 header:
-    image_fullwidth: "mer3_dark_01.jpg"
+    image_fullwidth: "team_blue.JPG"
+    logoalt: "logo_03_white_big.svg"
 permalink: /team/SL/
 ---
 

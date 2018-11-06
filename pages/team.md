@@ -6,7 +6,8 @@ teaser: "We are a team of scientists contributing to fundamental and applied res
 permalink: "/team/"
 breadcrumb: true
 header:
-    image_fullwidth: "JV-manchots-line.jpg"
+    image_fullwidth: "team_blue.JPG"
+    logoalt: "logo_03_white_big.svg"
  
 widget1:
   title: "Stéphanie Leroux"
