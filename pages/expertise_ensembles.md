@@ -6,7 +6,7 @@ teaser: ""
 header:
     image_fullwidth: "sand_SLX.jpg"
     logoalt: "logo_03_white_big.svg"
-permalink: /expertise/ensemles/
+permalink: /expertise/ensembles/
 breadcrumb: true
 ---
 Over the last decades, altimeter and other satellite and in-situ ocean observations have provided crucial information to increase our knowledge of the global oceanic state, its variability, and long-term changes. Comparing observations to ocean numerical simulations is a routinely-used approach to either validate models,  calibrate new observation systems, or investigate physical processes and mechanisms.  But such comparison requires some knowledge of the different types of uncertainties attached to the compared datasets.
