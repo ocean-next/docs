@@ -6,8 +6,8 @@ subheadline: ""
 teaser: "Contact us at:"
 permalink: "/contact/"
 header:
-   image_fullwidth: "manchots_ONblue.jpg"
-   logoalt: "logo_03_white_big.svg"
+   image_fullwidth: "arctic_blue_1920x1113.jpg"
+   logoalt: "logo_03_yellow_big.svg"
 breadcrumb: true
 ---
 
