@@ -13,7 +13,7 @@ gallery:
     - image_url: partners-LEGOS.jpg
     - image_url: partners-CLS.png
     - image_url: partners-CNES.svg
-    - image_url: partners-Mercator_Ocean.svg
+    - image_url: partners-Mercator_Ocean.png
     - image_url: partners-CNRS.svg
     - image_url: partners-Copernicus.png
 ---
