@@ -13,8 +13,6 @@ breadcrumb: true
 * __2018:__  Barnier B., A. Domina, S. Gulev, J.-M. Molines, T. Maitre, T. Penduff, J. Le Sommer, P. Brasseur, __L. Brodeau__.
 Unexpected impact of flow-driven turbine power plants on great ocean currents. _Sumitted to Nature Energy_. 
 
-* __2018:__ Hall N., __Leroux S.__, Ambrizzi T. Transient contributions to the forcing of the atmospheric annual cycle: A diagnostic study with the DREAM model. _Climate Dynamics, in press._
-
 
 ### Published peer-reviewed articles:
 
@@ -23,6 +21,9 @@ Unexpected impact of flow-driven turbine power plants on great ocean currents. _
 * __2018:__ __Leroux, S__; Penduff, T; Bessieres, L; Molines, JM; Brankart, JM; Serazin, G; Barnier, B; Terray, L. Intrinsic and atmospherically-forced variability of the AMOC : insights from a large ensemble ocean hindcast. J. Climate., 31 (3) 1183-1203. [[doi]](http://dx.doi.org/10.1175/JCLI-D-17-0168.1)
 
 * __2018:__ Penduff, T., G. Sérazin, __S. Leroux__, S. Close, J.-M. Molines, B. Barnier, L. Bessières, L. Terray, and G. Maze.,. Chaotic variability of ocean heat content: Climate-relevant features and observational implications. Oceanography 31(2). [[doi]](https://doi.org/10.5670/oceanog.2018.210)
+
+* __2018:__ Hall N., __Leroux S.__, Ambrizzi T. Transient contributions to the forcing of the atmospheric annual cycle: A diagnostic study with the DREAM model. Climate Dynamics, 1-15, _Early Online Release_, [[doi]](https://doi.org/10.1007/s00382-018-4539-y)
+
 
 
 ### Conferences:
