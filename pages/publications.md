@@ -22,7 +22,7 @@ Unexpected impact of flow-driven turbine power plants on great ocean currents. _
 
 * __2018:__ Penduff, T., G. Sérazin, __S. Leroux__, S. Close, J.-M. Molines, B. Barnier, L. Bessières, L. Terray, and G. Maze.,. Chaotic variability of ocean heat content: Climate-relevant features and observational implications. Oceanography 31(2). [[doi]](https://doi.org/10.5670/oceanog.2018.210)
 
-* __2018:__ Hall N., __Leroux S.__, Ambrizzi T. Transient contributions to the forcing of the atmospheric annual cycle: A diagnostic study with the DREAM model. Climate Dynamics, 1-15, _Early Online Release_, [[doi]](https://doi.org/10.1007/s00382-018-4539-y)
+* __2018:__ Hall N., __Leroux S.__, Ambrizzi T. Transient contributions to the forcing of the atmospheric annual cycle: A diagnostic study with the DREAM model. Climate Dynamics, 1-15, _Early Online Release_, [[doi:10.1007/s00382-018-4539-y]](https://rdcu.be/bbLtn)
 
 
 
