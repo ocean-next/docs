@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Exploring Artificial Intelligence methods and tools for data assimilation in oceanography."
+title: "Exploring Data Science methods and tools for data assimilation in oceanography."
 subheadline: ""
 teaser: ""
 header:

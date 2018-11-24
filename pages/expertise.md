@@ -26,10 +26,10 @@ widget3:
   text: 'Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data [...]'
 
 widget4:
-  title: "Artificial Intelligence methods for Oceanography"
+  title: "Data Science for Oceanography"
   url: /expertise/ai-approaches/
   image: nn_f_743x743.png
-  text: 'Explore and apply some approaches and tools from Artificial Intelligence in the context ocean data assimilation and spatial oceanography [...]'
+  text: 'Explore and apply some approaches and tools from Data Science  in the context ocean data assimilation and spatial oceanography [...]'
 
 
 ---
