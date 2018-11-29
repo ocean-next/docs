@@ -1,21 +1,14 @@
 ---
 layout: page
 show_meta: false
-title: "About Ocean Next"
+title: "<center>About Ocean Next  </center>"
 subheadline: ""
 teaser: ""
 header:
     image_fullwidth: "mer_orig_montage_curl.jpg"
 permalink: "/about-us/"
 breadcrumb: true
-gallery:
-    - image_url: partners-IGE.svg
-    - image_url: partners-LEGOS.jpg
-    - image_url: partners-CLS.png
-    - image_url: partners-CNES.svg
-    - image_url: partners-Mercator_Ocean.png
-    - image_url: partners-CNRS.svg
-    - image_url: partners-Copernicus.png
+
 ---
 Our company Ocean Next was founded in 2017 on the initiative of Jacques Verron, oceanographer and expert in data assimilation for operational oceanography.
 
@@ -26,5 +19,6 @@ We work in tight collaboration with various  academic research groups  and priva
 [Read more]({{ site.url }}{{ site.baseurl }}/expertise/) about the science projects we are involved in.
 
 ---
-# Some of our partners:
-{% include gallery %}
+### <center> Some of our main partners:</center>
+![All]({{ site.urlimg }}plate_all_logos.svg "Partners")
+
