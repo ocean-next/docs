@@ -31,6 +31,13 @@ widget4:
   title: "Jacques Verron"
   url: /team/JV/
   image: team-JV.jpg
-  text: 'Emeritus senior scientist at CNRS, expert in numerical ocean modeling, data assimilation and spatial observation. He is CEO and founder of Ocean Next [...]'
-  
+  text: 'Emeritus senior scientist at CNRS, expert in numerical ocean modeling, data assimilation and spatial observation. He is CEO and founder of Ocean Next [...]' 
+ 
+widget5:
+  title: "Sylvie Sahuc"
+  url: /team/SS/
+  image: team-SS.jpg
+  text: 'Administrative assistant. Sylvie runs  her own local business named Interligne Secretariat, that offers high-quality administrative expertise and support for  small-size entreprises, startups, etc.  [...]'
+
+
 ---
