@@ -16,7 +16,7 @@ As such, the so-called eNATL60 configuration (see technical specifications below
 
 This type of ultrahigh resolution ocean flow simulations (~1 km horizontal grid resolution on 300 vertical levels, with the inclusion of tidal motions), has only been made achievable recently thanks to the advance in HPC capabilities of modern supercomputers. Besides providing the project team and the ocean/climate community with a pioneering dataset for studying the interactions between fine-scale features and the larger-scale components of oceanic flow, the proposed set of simulations will also be used for preparing upcoming satellite missions, including the SWOT altimetry mission. SWOT will provide observations of the surface ocean dynamics at an unprecedented fine-scale resolution. The present project will allow to develop a system ready to prepare, assimilate, interpret, and further expand (e.g. below the surface) the information that will be obtained from SWOT. This new generation of high spatial resolution altimetric satellite observations from the SWOT mission, combined to the set of proposed ground-breaking ocean simulations, is expected to lead to major breakthroughs in our understanding of the roles played by fine-scale ocean turbulence (and tidal motions) in influencing the large-scale ocean circulation, and thereby, the climate system. The simulations of this project will also be used as a testbed for designing the next generation of models for the Copernicus Marine Environment Monitoring Service.
 
-[Click here to see videos on our YouTube channel.](/expertise/natl60vids/)
+[Click here to see videos on our Vimeo channel.](https://vimeo.com/oceannext/)
 
 {% include gallery %}
 
