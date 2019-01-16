@@ -2,7 +2,6 @@
 layout: page-fullwidth
 title: "Publications and communications"
 teaser: "2017-Present"
-permalink: "/publications/"
 header:
     image_fullwidth: "floats_blue.JPG"
     logoalt: "logo_03_white_big.svg"

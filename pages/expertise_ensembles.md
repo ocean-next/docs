@@ -28,3 +28,4 @@ _Fig2: The probabilistic description of the ocean state  allows for the detectio
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/expertise/">Read also about our other activities ›</a>
 
 
+Related publications are listed [here](http://meom-group.github.io/projects/occiput/) 
