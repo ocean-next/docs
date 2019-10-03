@@ -39,5 +39,11 @@ widget5:
   image: team-SS.jpg
   text: 'Administrative assistant. Sylvie runs  her own local business named Interligne Secretariat, that offers high-quality administrative expertise and support for  small-size entreprises, startups, etc.  [...]'
 
+Widget6:
+  title: "Aurélie Albert"
+  url: /team/AA/
+  image: team-AA.jpg
+  text: 'Research engineer. Currently in charge of the distribution of high-resolution simulations of the ocean, fine scales analysis and big data management and solutions. [...]'
+
 
 ---
